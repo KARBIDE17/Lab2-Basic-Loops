@@ -1,0 +1,15 @@
+C:\Users\steve\source\repos\Basic Loops Lab\Basic Loops Lab\bin\Debug\net6.0\Basic Loops Lab.exe
+C:\Users\steve\source\repos\Basic Loops Lab\Basic Loops Lab\bin\Debug\net6.0\Basic Loops Lab.deps.json
+C:\Users\steve\source\repos\Basic Loops Lab\Basic Loops Lab\bin\Debug\net6.0\Basic Loops Lab.runtimeconfig.json
+C:\Users\steve\source\repos\Basic Loops Lab\Basic Loops Lab\bin\Debug\net6.0\Basic Loops Lab.dll
+C:\Users\steve\source\repos\Basic Loops Lab\Basic Loops Lab\bin\Debug\net6.0\Basic Loops Lab.pdb
+C:\Users\steve\source\repos\Basic Loops Lab\Basic Loops Lab\obj\Debug\net6.0\Basic Loops Lab.csproj.AssemblyReference.cache
+C:\Users\steve\source\repos\Basic Loops Lab\Basic Loops Lab\obj\Debug\net6.0\Basic Loops Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\steve\source\repos\Basic Loops Lab\Basic Loops Lab\obj\Debug\net6.0\Basic Loops Lab.AssemblyInfoInputs.cache
+C:\Users\steve\source\repos\Basic Loops Lab\Basic Loops Lab\obj\Debug\net6.0\Basic Loops Lab.AssemblyInfo.cs
+C:\Users\steve\source\repos\Basic Loops Lab\Basic Loops Lab\obj\Debug\net6.0\Basic Loops Lab.csproj.CoreCompileInputs.cache
+C:\Users\steve\source\repos\Basic Loops Lab\Basic Loops Lab\obj\Debug\net6.0\Basic Loops Lab.dll
+C:\Users\steve\source\repos\Basic Loops Lab\Basic Loops Lab\obj\Debug\net6.0\refint\Basic Loops Lab.dll
+C:\Users\steve\source\repos\Basic Loops Lab\Basic Loops Lab\obj\Debug\net6.0\Basic Loops Lab.pdb
+C:\Users\steve\source\repos\Basic Loops Lab\Basic Loops Lab\obj\Debug\net6.0\Basic Loops Lab.genruntimeconfig.cache
+C:\Users\steve\source\repos\Basic Loops Lab\Basic Loops Lab\obj\Debug\net6.0\ref\Basic Loops Lab.dll
